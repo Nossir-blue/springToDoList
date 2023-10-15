@@ -3,7 +3,7 @@ package ao.com.rogerreis.todolist.filter;
 import java.io.IOException;
 import java.util.Base64;
 
-import org.apache.tomcat.util.http.parser.Authorization;
+//import org.apache.tomcat.util.http.parser.Authorization;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
